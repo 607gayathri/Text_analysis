@@ -1,2 +1,2 @@
-#Text_Analysis
-this project shows depolyment of real and fake news analysis
+Text_Analysis
+This project shows depolyment of real and fake news analysis
